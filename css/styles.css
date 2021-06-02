@@ -1,0 +1,12 @@
+.container{
+    height: 635px;
+    background-color: blue;
+    padding: 15px;
+}
+.column1, .column2{
+    border: 2px solid;
+    border-color: black;
+    height: 300px;
+    width: 450px;
+    margin-left: 75px;
+}
