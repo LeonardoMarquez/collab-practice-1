@@ -1,3 +1,13 @@
+/* Bootstrap NavBar: */
+.navbar{
+    background-color: black;
+}
+.active, .contact, .about{
+    margin: 10px;
+    padding: 3px;
+    border: 1px white solid;
+}
+/* Container w/ 2 columns */
 .container{
     height: 635px;
     background-color: blue;
